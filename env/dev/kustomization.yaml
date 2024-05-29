@@ -8,5 +8,4 @@ namespace: guestbook-simple-dev
 
 images:
 - name: ghcr.io/angelatlassian/guestbook
-  newName: ghcr.io/angelatlassian/guestbook
   newTag: v0.0.1
